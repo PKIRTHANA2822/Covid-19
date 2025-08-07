@@ -1,5 +1,8 @@
 # Project Title:
 - Comparative Analysis of K-Means and K-Medoids Clustering on COVID-19 Global Dataset
+
+<img width="1024" height="427" alt="Calculus-Basics-For-Machine-Learning-1024x427" src="https://github.com/user-attachments/assets/1a2208ac-5a68-43c1-9b71-9fb9c6e47f87" />
+
 # Objective:
 - To perform unsupervised clustering using K-Means and K-Medoids algorithms on global COVID-19 data and analyze their performance in grouping countries/regions based on pandemic severity (Confirmed, Deaths, Recovered, Active cases).
 # Why We Use This Project:
