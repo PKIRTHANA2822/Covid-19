@@ -53,6 +53,6 @@
 - K-Medoids	0.9542
 ### Inference: Both models performed very well, but K-Means slightly outperformed K-Medoids in terms of cohesion and separation of clusters.
 # Output:
-
+![WhatsApp Image 2025-08-07 at 7 35 54 PM](https://github.com/user-attachments/assets/59523572-c31c-4b8c-80ba-96ee992de251)
 
 
